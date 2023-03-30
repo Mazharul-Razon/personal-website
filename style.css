@@ -1,0 +1,13 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.color-highlight{
+    color: magenta;
+    font-size: 30px;
+    font-weight: 700;
+}
+.link-button{
+    text-decoration: none;
+    background-color: magenta;
+}
